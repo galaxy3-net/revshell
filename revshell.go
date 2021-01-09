@@ -1,3 +1,13 @@
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"net"
+	"os/exec"
+	"strings"
+)
+
 func main() {
 	hostName := "10.55.56.4"
 	portNum := "4444"

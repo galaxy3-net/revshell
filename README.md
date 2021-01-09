@@ -1,6 +1,9 @@
 # revshell
 Reverse Shell
 
+## Clone this Repo (Kali Linux)
+
+git clone https://github.com/galaxy3-net/revshell.git ~/revshell
 
 ## Installing Go Compiler
 
